@@ -1,4 +1,5 @@
 def maximum_tableau(tab):
+    """Renvoie le plus grand élément du tableau"""
     nombre_max = 0
     for i in range(len(tab)):
         if tab[i] > nombre_max:

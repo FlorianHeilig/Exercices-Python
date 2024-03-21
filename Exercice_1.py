@@ -1,4 +1,5 @@
 def max_et_indice(tab):
+    """Renvoie la plus grande valeur est son indice"""
     indice = 0
     valeur_max = tab[0]
 

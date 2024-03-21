@@ -1,6 +1,6 @@
 def nb_repetitions(elt, tab):
+    """Renvoie le nombre de fois ou l'élément apparaît dans le tableau"""
     conteur = 0
-
     for i in range(len(tab)):
         if tab[i] == elt:
             conteur += 1

@@ -1,4 +1,5 @@
 def min_et_max(tab):
+    """Renvoie la valeur minimal et maximal du tableau"""
     Valeur_min = tab[0]
     Valeur_max = tab[0] 
     for i in range(len(tab)):

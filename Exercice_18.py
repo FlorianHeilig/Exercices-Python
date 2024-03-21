@@ -1,5 +1,5 @@
 def recherche_min(tab):
-
+    """Renvoie l'indice de la première occurence du minimum de ce tableau"""
     valeur_maximum = tab[0] 
     index_maximum = 0  
 

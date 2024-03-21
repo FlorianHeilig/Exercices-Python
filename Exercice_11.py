@@ -6,6 +6,6 @@ def recherche(tab, n):
             indice = i
     return indice
     
-resultat = recherche([10, 5, 4, 7, 9], 10)
+resultat = recherche([1, 4, 6, 7, 9], 10)
 
 print(resultat)
