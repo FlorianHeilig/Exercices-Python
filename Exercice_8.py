@@ -1,5 +1,5 @@
 def moyenne(notes):
-    """Calcule la moyenne """
+    """Calcule la moyenne des notes associée à un coefficient"""
     somme = 0
     coeffs = 0
     for elt in notes:
